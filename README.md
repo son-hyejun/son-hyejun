@@ -81,3 +81,7 @@
 <p align="center">
   🧑‍💻 Thanks for visiting — let's build something great!
 </p>
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/son-hyejun/son-hyejun/blob/output/github-contribution-grid-snake.svg)
