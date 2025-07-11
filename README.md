@@ -12,7 +12,7 @@
 
 > 🔧 *"I love debugging more than debugging loves me."*
 
-- 👋 Hello! I'm **Son Hyejun (손혜준)**, or just call me **Jun (준)** 😊  
+- 👋 Hello! I'm **Hyejun Son (손혜준)**, or just call me **Jun (준)** 😊  
 - 🎓 Currently studying **Computer Science at Soongsil University** (since 2023.3~)
 - 🌱 Diving deep into **Spring Boot** & **JavaScript**
 - 🛠️ Exploring full-stack development from backend to frontend
