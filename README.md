@@ -75,6 +75,16 @@
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=son-hyejun&theme=default" />
 </p>
 
+<p align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=son-hyejun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/son-hyejun"
+  width="600"
+  height="300"
+/>
+</a>
+</p>
+
 ---
 
 <p align="center">
